@@ -19,6 +19,11 @@ We will create a machine learning pipeline to generate time series and other typ
 
     ```pip install -r src/requirements.txt```
 
+5. Setup your IDE for Kedro projects 
+    * PyCharm or IntelliJ (https://kedro.readthedocs.io/en/stable/development/set_up_pycharm.html)
+    * Visual Studio Code (https://kedro.readthedocs.io/en/stable/development/set_up_vscode.html)
+
+6. Continue the next steps in this [README](synthetic-data-pipeline/README.md)
 
 ## References
 

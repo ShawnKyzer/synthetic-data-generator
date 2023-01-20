@@ -27,6 +27,10 @@ pip install -r src/requirements.txt
 
 ## How to run your Kedro pipeline
 
+
+IMPORTANT: Before you run the pipeline.
+* Copy your sample data into the data/01_raw folder as 'sample_data.csv'
+
 You can run your Kedro project with:
 
 ```
