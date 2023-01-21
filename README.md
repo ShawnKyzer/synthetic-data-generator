@@ -41,4 +41,5 @@ NOTE: This repository is intended for learning and research purposes. It is also
 
 ## References
 
-* Special thanks to the amazing work done by Gretel Synthetics (https://github.com/gretelai/gretel-synthetics)
+* Thanks to the work done by Gretel Synthetics (https://github.com/gretelai/gretel-synthetics)
+* Thanks to YData for Pandas-Profiling (https://github.com/ydataai/pandas-profiling)
