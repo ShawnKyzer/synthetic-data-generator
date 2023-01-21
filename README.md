@@ -3,6 +3,12 @@ We will create a machine learning pipeline to generate time series and other typ
 
 NOTE: This repository is intended for learning and research purposes. It is also worth nothing that this is a WIP and will continue to be updated.
 
+
+## Some examples
+
+[Time Series dGAN Comparison](http://htmlpreview.github.io/?https://raw.githubusercontent.com/ShawnKyzer/synthetic-data-generator/main/sample_output/original_vs_transformed_dGAN_Time_Series.html)
+
+
 ## Getting started
 
 1. Install Anaconda 
