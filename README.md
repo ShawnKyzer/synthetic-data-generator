@@ -3,11 +3,17 @@ We will create a machine learning pipeline to generate time series and other typ
 
 NOTE: This repository is intended for learning and research purposes. It is also worth nothing that this is a WIP and will continue to be updated.
 
+## Experimentation Notebooks
 
-## Some examples
+### Time Series dGAN Synthetic Data Generation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShawnKyzer/synthetic-data-generator/blob/main/synthetic-data-pipeline/notebooks/colab_synthetic_data_generator_time_series_dGAN.ipynb)
+
+### LSTM Synthetic Data Generation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShawnKyzer/synthetic-data-generator/blob/main/synthetic-data-pipeline/notebooks/colab_synthetic_data_generator_LSTM.ipynb)
+
+## Some examples - Sample Outputs
 
 [Time Series dGAN Comparison](http://htmlpreview.github.io/?https://raw.githubusercontent.com/ShawnKyzer/synthetic-data-generator/main/sample_output/original_vs_transformed_dGAN_Time_Series.html)
-
 
 ## Getting started
 
