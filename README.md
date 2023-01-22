@@ -11,9 +11,10 @@ NOTE: This repository is intended for learning and research purposes. It is also
 ### LSTM Synthetic Data Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShawnKyzer/synthetic-data-generator/blob/main/synthetic-data-pipeline/notebooks/colab_synthetic_data_generator_LSTM.ipynb)
 
-## Some examples - Sample Outputs
+## Some examples - Comparison Reports
 
-[Time Series dGAN Comparison](http://htmlpreview.github.io/?https://raw.githubusercontent.com/ShawnKyzer/synthetic-data-generator/main/sample_output/original_vs_transformed_dGAN_Time_Series.html)
+#### * [Time Series dGAN - Synthetic vs Real Comparison](https://shawnkyzer.github.io/synthetic-data-generator/sample_output/original_vs_transformed_dGAN_Time_Series.html)
+#### * [LSTM - Synthetic vs Real Comparison](https://shawnkyzer.github.io/synthetic-data-generator/sample_output/original_vs_transformed_LSTM.html)
 
 ## Getting started
 
