@@ -13,8 +13,12 @@ NOTE: This repository is intended for learning and research purposes. It is also
 
 ## Some examples - Comparison Reports
 
-#### * [Time Series dGAN - Synthetic vs Real Comparison](https://shawnkyzer.github.io/synthetic-data-generator/sample_output/original_vs_transformed_dGAN_Time_Series.html)
-#### * [LSTM - Synthetic vs Real Comparison](https://shawnkyzer.github.io/synthetic-data-generator/sample_output/original_vs_transformed_LSTM.html)
+- **[Time Series dGAN - Synthetic vs Real Comparison](https://shawnkyzer.github.io/synthetic-data-generator/sample_output/original_vs_transformed_dGAN_Time_Series.html)**
+- **[LSTM - Synthetic vs Real Comparison](https://shawnkyzer.github.io/synthetic-data-generator/sample_output/original_vs_transformed_LSTM.html)**
+
+## Pipeline (Coming Soon)
+
+* [DRAFT - Pipeline Flow Diagram](image/syntetic-data-generator-pipeline-flow.jpg)
 
 ## Getting started
 
