@@ -2,4 +2,8 @@ name: synthetic-data-generator
 channels:
   - conda-forge
   - defaults
+dependencies:
+  - python=3.10
+  - pip:
+    - pip -r synthetic-data-pipeline/src/requirements.txt
 prefix: /usr/local/anaconda3/envs/synthetic-data-generator
