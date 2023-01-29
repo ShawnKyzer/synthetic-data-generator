@@ -6,5 +6,5 @@ dependencies:
   - python=3.10
   - kedro=0.18.4
   - pip:
-    - pip -r synthetic-data-pipeline/src/requirements.txt
+    - pip install -r synthetic-data-pipeline/src/requirements.txt
 prefix: /usr/local/anaconda3/envs/synthetic-data-generator
