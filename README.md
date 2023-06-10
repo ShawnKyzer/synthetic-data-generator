@@ -26,7 +26,7 @@ NOTE: This repository is intended for learning and research purposes. It is also
    * Installation instructions by environment https://docs.anaconda.com/anaconda/install/index.html
 2. Install conda environment and activate
 
-    ```conda env create -f environment.yml```
+    ```conda env create -f environment.yaml```
 
    ```conda activate synthetic-data-generator```
 
